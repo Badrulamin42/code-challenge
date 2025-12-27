@@ -11,7 +11,7 @@ Simple CRUD backend built with Express.js and TypeScript.
 ## Setup
 ```bash
 
-go to root
+go to root code-challenge\
 
 npm install
 npm run problem5
