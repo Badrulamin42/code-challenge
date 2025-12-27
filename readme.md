@@ -1,5 +1,9 @@
 # Applying For Backend
 
+Name : Badrul Amin
+----------------------------------------
+
+
 # 99Tech Code Challenge #1 #
 
 Note that if you fork this repository, your responses may be publicly linked to this repo.  
